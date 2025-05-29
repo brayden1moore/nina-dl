@@ -1,5 +1,4 @@
 Download the .pkg file<br>
-Double click and install<br>
-Use it in your Terminal with:<br>
-<code>nina "[link-to-release]"</code><br>
-The song / album will download to your Downloads folder
+Double click it and install<br>
+Use in your Terminal with <code>nina "[link-to-release]"</code><br>
+The specified song / album will download to your Downloads folder
